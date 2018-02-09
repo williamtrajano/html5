@@ -1,3 +1,7 @@
 bower.json
 bower_components
 .bowerrc
+assets/
+!assets/angular/angular.min.js
+!assets/bootstrap/dist/
+!assets/jquery/dist/jquery.mim.js
